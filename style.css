@@ -1,0 +1,32 @@
+html {
+  background-color: black;
+}
+h1, p {
+  color: white
+}
+.norway {
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  text-transform: uppercase;
+}
+.saying {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -15px;
+}
+.meme {
+  text-align: center;
+  padding: 40px;
+  width: 50%;
+  margin-left: 25%;
+}
+.picture {
+  border: 5px white solid;
+  width: 100%;
+}
